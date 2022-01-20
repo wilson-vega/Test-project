@@ -1,0 +1,182 @@
+
+
+
+body{
+    background-color: black;
+    padding: 30px;
+    
+    
+}
+
+
+
+.tittle{
+    text-align: center;
+    color: whitesmoke;   
+}
+
+.principal img{
+    width: 600px;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    border-radius: 10px;
+    
+}
+
+
+
+.enlace1 a{
+    color: black;
+    font-size: 20px;
+    
+}
+
+.enlace1{
+    position: absolute;
+    top: 500px;
+    left: 400px;
+}
+
+
+.enlace2 a{
+    color: black;
+    font-size: 20px;
+    
+}
+
+.enlace2{
+    position: absolute;
+    top: 500px;
+    left: 800px;
+}
+
+.titulo_pag3{
+    color: whitesmoke;
+    position: absolute;
+    top: 620px;
+    left: 500px;
+}
+
+
+.tercera img{
+    width: 500px;
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    border-radius: 10px;
+}
+
+.list1{
+    position:absolute;
+    top: 850px;
+    color: whitesmoke;
+    
+}
+
+.list1 img{
+    width: 300px;
+    height: auto;
+    position: absolute;
+    left: 250px;
+    
+}
+
+.list1 a{
+    color: whitesmoke;
+}
+
+
+.list2{
+    position:absolute;
+    top: 1200px;
+    color: whitesmoke;
+    
+}
+
+.list2 img{
+    width: 250px;
+    height: auto;
+    position: absolute;
+    left: 300px;
+    
+}
+
+.list2 a{
+    color: whitesmoke;
+}
+
+table, th, td{
+    color: whitesmoke;
+    border: solid red 2px;
+    border-collapse: collapse;
+    padding: 17px;
+    
+}
+
+table{
+    position: absolute;
+    top: 650px;
+    left: 500px;
+}
+
+
+.segunda img{
+    width: 500px;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    border-radius: 10px;
+}
+
+p{
+    color: whitesmoke;
+    position: absolute;
+    top: 600px;    
+    padding: 100px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.list3 img{
+    width: 300px;
+    position: absolute;
+    
+    left: 250px;
+    
+}
+
+.list3 a{
+    color: whitesmoke;
+    left: 150px;
+}
+
+.list3{
+    position: absolute;
+    top: 1550px;
+    color: whitesmoke;
+}
+
+li:hover{
+    opacity: 50%;
+}
+
+button:hover{
+    opacity: 60%;
+}
+
+
+.volver{
+    position: absolute;
+    left: 1100px;
+    top: 1750px;
+}
+
+
+.volverh{
+    position: absolute;
+    left: 1100px;
+    top: 1000px;
+}
